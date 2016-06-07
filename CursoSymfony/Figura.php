@@ -49,5 +49,7 @@ abstract class Figura
 
     public abstract function perimetro();
 
-
+/*
+ * a comment
+ */
 }
